@@ -789,7 +789,7 @@ window.EngtChat = {
 			var engt_powered = '';
 		}
 		else{
-			var engt_powered = 'Powered by Engati';
+			var engt_powered = 'ChatBox HackSon!';
 		}
 		var xhttp = new XMLHttpRequest();
 		var resp;
